@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="staging/lineage-15.1"/>
+<project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-15.1"/>
+<project path="vendor/samsung" name="j-znarf/proprietary_vendor_samsung"/>
+<project path="device/samsung/jfvelte" name="j-znarf/android_device_samsung_jfvelte"/>
+<project path="kernel/samsung/jfvelte" name="j-znarf/android_kernel_samsung_jf"/>
+</manifest>
+
+
+
+
+
+
+
+
