@@ -5,6 +5,7 @@
 <project path="vendor/samsung" name="j-znarf/proprietary_vendor_samsung"/>
 <project path="device/samsung/jfvelte" name="j-znarf/android_device_samsung_jfvelte"/>
 <project path="kernel/samsung/jfvelte" name="j-znarf/android_kernel_samsung_jf"/>
+<project path="hardware/samsung" name="LineageOS/android_hardware_samsung"/>
 </manifest>
 
 
